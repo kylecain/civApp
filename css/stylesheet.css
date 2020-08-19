@@ -1,0 +1,41 @@
+
+body{
+    background-color: #000000;
+}
+a{
+    margin: 0.5rem;
+}
+.container{
+    text-align: center;
+}
+h1.civ-header{
+    color: #ffffff;
+}
+.civ-header{
+    margin: 0px 0px 16px;
+}
+.card{
+    border-radius: 10px;
+    background-color: #121212;
+    display: inline-block;
+    max-width: 12rem;
+}
+
+.card-title{
+    text-align: center;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+h5.card-title{
+    color: #ffffff;
+}
+
+.modal-title{
+    width: 100%;
+}
+.btn{
+    background-color: #bb86fc;
+    color: #000000;
+}
